@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw dataset
+Online Retail.xlsx
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
