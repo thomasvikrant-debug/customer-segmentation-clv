@@ -105,3 +105,7 @@ An interactive Power BI dashboard was created to visualize:
 The project demonstrates how RFM analysis, customer segmentation, and customer value analysis can support data-driven marketing and customer retention decisions.
 
 The insights can help businesses focus resources on high-value customers while developing targeted strategies for customers with potential for future growth.
+
+## Author
+
+Vikrant Thomas
